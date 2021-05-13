@@ -1,0 +1,13 @@
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.exe
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.deps.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.runtimeconfig.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.runtimeconfig.dev.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.csprojAssemblyReference.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.AssemblyInfoInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.AssemblyInfo.cs
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.csproj.CoreCompileInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.genruntimeconfig.cache

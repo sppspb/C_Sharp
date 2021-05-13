@@ -1,0 +1,13 @@
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.exe
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.deps.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.runtimeconfig.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.runtimeconfig.dev.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\bin\Debug\netcoreapp3.1\Calculator_Basic.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.csprojAssemblyReference.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.AssemblyInfoInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.AssemblyInfo.cs
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.csproj.CoreCompileInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Calculator_Basic\obj\Debug\netcoreapp3.1\Calculator_Basic.genruntimeconfig.cache

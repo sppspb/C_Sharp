@@ -1,0 +1,13 @@
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.exe
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.deps.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.runtimeconfig.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.runtimeconfig.dev.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\bin\Debug\netcoreapp3.1\Sum_and_Average.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.csprojAssemblyReference.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.AssemblyInfoInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.AssemblyInfo.cs
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.csproj.CoreCompileInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Sum_and_Average\obj\Debug\netcoreapp3.1\Sum_and_Average.genruntimeconfig.cache

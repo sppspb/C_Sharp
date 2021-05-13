@@ -1,0 +1,12 @@
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.exe
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.deps.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.runtimeconfig.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.runtimeconfig.dev.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.AssemblyInfoInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.AssemblyInfo.cs
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.csproj.CoreCompileInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.genruntimeconfig.cache

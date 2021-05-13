@@ -1,0 +1,13 @@
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.exe
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.deps.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.runtimeconfig.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.runtimeconfig.dev.json
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\bin\Debug\netcoreapp3.1\Check_Alphabet.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.csprojAssemblyReference.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.AssemblyInfoInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.AssemblyInfo.cs
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.dll
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.pdb
+C:\Users\shobh\OneDrive\Documents\C_Sharp Program\C_Sharp_Basic\Check_Alphabet\obj\Debug\netcoreapp3.1\Check_Alphabet.genruntimeconfig.cache
